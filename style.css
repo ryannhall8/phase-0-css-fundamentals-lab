@@ -3,3 +3,53 @@ body {
   height: 100%;
   margin: 0;
 }
+
+h1 {
+  text-align: center;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+nav a {
+  padding: 10px;
+  background-color: rgb(218, 216, 216);
+  font-size: small;
+}
+
+nav {
+  text-align: center;
+}
+
+figure figcaption {
+  font-size: small;
+  text-align: center
+}
+
+#featured-property p {
+  width: 800px;
+  margin: auto;
+  text-align: center;
+  padding: 10px;
+}
+
+a:link {
+  color: black;
+}
+
+a:visited {
+  color: purple;
+}
+
+#details div {
+  float: left;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  width: 25%;
+  background-color: red;
+}
